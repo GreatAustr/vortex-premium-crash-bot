@@ -8,7 +8,7 @@ pip install discord asynsio aiohttp dhooks time os
 ```
 С помощью любого редактора кода запускаем файл main.py
 ---
-https://t.me/web_anarchy - Telegram
+https://t.me/russian_deanon - Telegram
 
 https://discord.gg/lavanbot - Discord
 
